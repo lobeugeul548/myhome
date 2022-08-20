@@ -1,0 +1,8 @@
+<html>
+<head>
+	<title>배유찬 천재</title>
+</head>
+<body>
+	<h1>유찬이는 너무 천재에요^^</h1>
+</body>
+</html>
